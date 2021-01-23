@@ -1,0 +1,46 @@
+@media(max-width: 470px){
+	body>#Bgi1>#ponelposition>#panel>span{
+			font-size:40px;
+	}
+
+}
+@media(max-width: 779px){
+		#Menubg>#responsimg{
+			display:block;
+	}
+	#Menubg ul li{
+		width:100%;
+		display:none;
+	}
+		#Menubg>#respons>a>i{
+			position:absolute;
+			top:35px;
+			left:15px;
+	}
+	#Menubg:hover ul li{
+		display:block !important;
+		position: relative;
+		margin: 10px 0;
+		padding: 0;
+	}
+	#Menubg:hover #responsimg{
+		display:none;
+	}
+}
+
+@media(max-width: 389px){
+	body>#Bgi1>#ponelposition>#panel>span{
+			font-size:30px;
+	}
+}
+@media(max-width: 389px){
+	body>#maindiv1>#imgdiv>#typeimg1{
+			margin-bottom:20px;
+	}
+		body>#maindiv1>#imgdiv>#typeimg2{
+			margin-bottom:20px;
+	}
+			body>#maindiv1>#imgdiv>#typeimg3{
+			margin-bottom:20px;
+	}
+}
